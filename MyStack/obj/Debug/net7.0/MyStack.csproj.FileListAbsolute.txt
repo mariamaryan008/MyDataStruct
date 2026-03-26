@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\bin\Debug\net7.0\MyStack.deps.json
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\bin\Debug\net7.0\MyStack.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\bin\Debug\net7.0\MyStack.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\bin\Debug\net7.0\MyLinkedListProj.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\bin\Debug\net7.0\MyLinkedListProj.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.AssemblyInfo.cs
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.csproj.CopyComplete
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\refint\MyStack.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\MyStack.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyStack\obj\Debug\net7.0\ref\MyStack.dll
