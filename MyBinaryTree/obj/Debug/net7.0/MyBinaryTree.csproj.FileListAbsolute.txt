@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\bin\Debug\net7.0\MyBinaryTree.deps.json
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\bin\Debug\net7.0\MyBinaryTree.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\bin\Debug\net7.0\MyBinaryTree.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.AssemblyInfo.cs
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\refint\MyBinaryTree.dll
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\MyBinaryTree.pdb
+C:\Users\Student\source\repos\LilitMikayelyan8\LilitMikayelyan8\MyDataStructures\MyBinaryTree\obj\Debug\net7.0\ref\MyBinaryTree.dll

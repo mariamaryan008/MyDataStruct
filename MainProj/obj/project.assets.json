@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MyBinaryTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MyBinaryTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyBinaryTree.dll": {}
+        }
+      },
+      "MyLinkedListProj/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MyLinkedListProj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLinkedListProj.dll": {}
+        }
+      },
+      "MyQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyQueue.dll": {}
+        }
+      },
+      "MyStack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyStack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBinaryTree/1.0.0": {
+      "type": "project",
+      "path": "../MyBinaryTree/MyBinaryTree.csproj",
+      "msbuildProject": "../MyBinaryTree/MyBinaryTree.csproj"
+    },
+    "MyLinkedListProj/1.0.0": {
+      "type": "project",
+      "path": "../MyLinkedListProj/MyLinkedListProj.csproj",
+      "msbuildProject": "../MyLinkedListProj/MyLinkedListProj.csproj"
+    },
+    "MyQueue/1.0.0": {
+      "type": "project",
+      "path": "../MyQueue/MyQueue.csproj",
+      "msbuildProject": "../MyQueue/MyQueue.csproj"
+    },
+    "MyStack/1.0.0": {
+      "type": "project",
+      "path": "../MyStack/MyStack.csproj",
+      "msbuildProject": "../MyStack/MyStack.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "MyBinaryTree >= 1.0.0",
+      "MyLinkedListProj >= 1.0.0",
+      "MyQueue >= 1.0.0",
+      "MyStack >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MainProj\\MainProj.csproj",
+      "projectName": "MainProj",
+      "projectPath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MainProj\\MainProj.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MainProj\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyBinaryTree\\MyBinaryTree.csproj": {
+              "projectPath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyBinaryTree\\MyBinaryTree.csproj"
+            },
+            "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyLinkedListProj\\MyLinkedListProj.csproj": {
+              "projectPath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyLinkedListProj\\MyLinkedListProj.csproj"
+            },
+            "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyQueue\\MyQueue.csproj": {
+              "projectPath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyQueue\\MyQueue.csproj"
+            },
+            "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyStack\\MyStack.csproj": {
+              "projectPath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyStack\\MyStack.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
