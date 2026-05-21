@@ -1,4 +1,4 @@
-﻿namespace MyLinkedListProgramm;
+﻿namespace MyLinkedListProj;
 
 public class MyLinkedListNode<T>
 {

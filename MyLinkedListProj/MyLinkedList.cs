@@ -1,7 +1,7 @@
 ﻿using System.Collections; 
 using System.Collections.Generic;
 
-namespace MyLinkedListProgramm;
+namespace MyLinkedListProj;
 
 public class MyLinkedList<T> : ICollection<T>
 {
@@ -50,7 +50,12 @@ public class MyLinkedList<T> : ICollection<T>
 
     public IEnumerator<T> GetEnumerator()
     {
-        throw new NotImplementedException();
+        var current = Head;
+        while (current!=null)
+        {
+            yield return current.Value;
+            current=current.Next;
+        }
     }
 
     public bool Remove(T item)
