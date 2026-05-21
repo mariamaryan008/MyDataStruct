@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\bin\Debug\net7.0\MySetProjj.deps.json
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\bin\Debug\net7.0\MySetProjj.dll
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\bin\Debug\net7.0\MySetProjj.pdb
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\bin\Debug\net7.0\MyLinkedListProj.dll
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\bin\Debug\net7.0\MyLinkedListProj.pdb
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.AssemblyInfo.cs
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.sourcelink.json
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.csproj.Up2Date
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.dll
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\refint\MySetProjj.dll
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\MySetProjj.pdb
+C:\Users\Student\source\repos\MyDataStructures22\MySetProjj\obj\Debug\net7.0\ref\MySetProjj.dll
